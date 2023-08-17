@@ -1,48 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T14:09:06.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zeclrKbOyRTagkcMpxzi" version="21.6.7" type="github">
-  <diagram name="Página-1" id="rkxKZwFkMryLcGeKAgUS">
-    <mxGraphModel dx="928" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-08-17T11:20:18.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.7" etag="TCE_tYmzHVmeRcMOUJtN" type="github">
+  <diagram name="Página-1" id="QpQeU-OjZ0Q3vNKGwvGl">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qi0nHScNzOz9_lcVuVys-4" target="Qi0nHScNzOz9_lcVuVys-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-4" value="Inicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qi0nHScNzOz9_lcVuVys-6" target="Qi0nHScNzOz9_lcVuVys-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-6" value="Receber código&amp;nbsp;&lt;br&gt;da peça" style="shape=display;whiteSpace=wrap;html=1;size=0.125;" vertex="1" parent="1">
-          <mxGeometry x="345" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qi0nHScNzOz9_lcVuVys-9" target="Qi0nHScNzOz9_lcVuVys-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-9" value="Receba&lt;br&gt;valor&lt;br&gt;da peça" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;" vertex="1" parent="1">
-          <mxGeometry x="362.5" y="200" width="85" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qi0nHScNzOz9_lcVuVys-18" target="Qi0nHScNzOz9_lcVuVys-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-18" value="Receba quantidade da&lt;br&gt;peças" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;" vertex="1" parent="1">
-          <mxGeometry x="362.5" y="290" width="85" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qi0nHScNzOz9_lcVuVys-21" target="Qi0nHScNzOz9_lcVuVys-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-21" value="Calcular o valor&lt;br&gt;total da peça" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qi0nHScNzOz9_lcVuVys-24" target="Qi0nHScNzOz9_lcVuVys-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-24" value="Mostre o código da peça e seu valor&amp;nbsp;&lt;br&gt;total" style="shape=display;whiteSpace=wrap;html=1;size=0.125;" vertex="1" parent="1">
-          <mxGeometry x="345" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qi0nHScNzOz9_lcVuVys-26" value="Fim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="580" width="90" height="35" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
